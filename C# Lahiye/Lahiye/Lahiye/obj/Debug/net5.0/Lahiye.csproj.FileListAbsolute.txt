@@ -1,0 +1,16 @@
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\bin\Debug\net5.0\Lahiye.exe
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\bin\Debug\net5.0\Lahiye.deps.json
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\bin\Debug\net5.0\Lahiye.runtimeconfig.json
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\bin\Debug\net5.0\Lahiye.runtimeconfig.dev.json
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\bin\Debug\net5.0\Lahiye.dll
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\bin\Debug\net5.0\ref\Lahiye.dll
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\bin\Debug\net5.0\Lahiye.pdb
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\obj\Debug\net5.0\Lahiye.csproj.AssemblyReference.cache
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\obj\Debug\net5.0\Lahiye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\obj\Debug\net5.0\Lahiye.AssemblyInfoInputs.cache
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\obj\Debug\net5.0\Lahiye.AssemblyInfo.cs
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\obj\Debug\net5.0\Lahiye.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\obj\Debug\net5.0\Lahiye.dll
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\obj\Debug\net5.0\ref\Lahiye.dll
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\obj\Debug\net5.0\Lahiye.pdb
+C:\Users\Msi\Desktop\C# Lahiye\Lahiye\Lahiye\obj\Debug\net5.0\Lahiye.genruntimeconfig.cache
